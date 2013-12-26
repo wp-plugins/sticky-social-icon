@@ -4,7 +4,7 @@ Plugin Name: Sticky Social Icon
 Plugin URI: http://viaviweb.com
 Description: Sticky social icon is a simple container of social media icons, glued to the right side of the browser window. 
 Version: 1.0
-Author: Kuldip Nakum and Rushi Tatamiya
+Author: viaviwebtech
 Author URI: http://viaviweb.com
 Wordpress version supported: 3.0 and above
 License: GPL2
