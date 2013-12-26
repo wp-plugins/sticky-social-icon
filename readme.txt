@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: nkuldip, rushitatmiya
+Contributors: viaviwebtech
 Donate link:
 Tags: social, sticky, icon, side icon, sticky social icon, sticky-social-icon,social media
 Requires at least: 3.0.1
