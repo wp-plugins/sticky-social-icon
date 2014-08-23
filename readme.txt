@@ -54,8 +54,12 @@ A. If you want to set different color theme,please select color form color picke
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 Initial version released
+
+= 2.0.0 =
+Bug fix
+Add some more icon
 
 == Upgrade Notice ==
 Nothing here
